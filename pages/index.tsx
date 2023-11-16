@@ -25,7 +25,8 @@ export default function Home() {
   }>({
     messages: [
       {
-        message: 'Hi, what would you like to learn about this document?',
+        message:
+          '안녕하세요. 세무사회 맘모스 가이드 챗봇 입니다. 사용법에 대해 질문해주세요.',
         type: 'apiMessage',
       },
     ],
